@@ -546,15 +546,5 @@ box-shadow: 0 0 60px 20px rgb(255, 0, 221);
     .ionicon s-ion-icon{
         margin:20px
     }
-    .navigation ul li a{
-        position: relative;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        color: white;
-        text-align: center;
-        flex-wrap: wrap;
-        
-    }
+   
 }
