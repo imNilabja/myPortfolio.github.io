@@ -40,6 +40,7 @@
     color: white;
     text-align: center;
     
+    
 }
 
 .navigation ul li a .icon{
@@ -501,31 +502,31 @@ box-shadow: 0 0 60px 20px rgb(255, 0, 221);
     text-decoration: none;
     }
 
-    @media(max-width:770px) {
+    @media(max-width:700px) {
     
     .section3
     { 
-        left: 250px;
+        left: 130px;
         top: 1000px;
      
     }
     .section2
     { 
-        left: 250px;
+        left: 130px;
         top: 1250px;
      
     }
 
     .section1
     { 
-        left: 250px;
+        left: 130px;
         top: 820px;
      
     }
 
     .section0
     { 
-        left: -350px;
+        left: -430px;
         top: 100px;
      
     }
@@ -533,9 +534,27 @@ box-shadow: 0 0 60px 20px rgb(255, 0, 221);
 
     .footer{
     position: relative;
-        left: -310px;
+        left: -400px;
         top: 600px;
         font-size: 10px;
     }
+    
+}
 
+@media(max-width:370px) {
+    
+    .ionicon s-ion-icon{
+        margin:20px
+    }
+    .navigation ul li a{
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        color: white;
+        text-align: center;
+        flex-wrap: wrap;
+        
+    }
 }
