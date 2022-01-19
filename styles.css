@@ -541,3 +541,14 @@ box-shadow: 0 0 60px 20px rgb(255, 0, 221);
     
 }
 
+hamburger {
+    position: absolute;
+    cursor: pointer;
+    top: 10px;
+    left: 10px;
+}
+
+.cross{
+    margin-left: 155px;
+    position: absolute;
+}
