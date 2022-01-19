@@ -541,10 +541,3 @@ box-shadow: 0 0 60px 20px rgb(255, 0, 221);
     
 }
 
-@media(max-width:370px) {
-    
-    .ionicon s-ion-icon{
-        margin:20px
-    }
-   
-}
