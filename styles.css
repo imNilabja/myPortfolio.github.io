@@ -43,11 +43,44 @@
     
 }
 
-.navigation ul li a .icon{
+.navigation ul li a .icon1{
     position: relative;
     line-height: 75px;
     transition: 0.5s;
-    font-size: 30px;
+    font-size: 23px;
+    top: -6px;
+}
+
+.navigation ul li a .icon2 {
+    position: relative;
+    line-height: 75px;
+    transition: 0.5s;
+    font-size: 23px;
+    top: -6px;
+}
+
+.navigation ul li a .icon3{
+    position: relative;
+    line-height: 75px;
+    transition: 0.5s;
+    font-size: 23px;
+    top: -6px;
+}
+
+.navigation ul li a .icon4{
+    position: relative;
+    line-height: 75px;
+    transition: 0.5s;
+    font-size: 23px;
+    top: -6px;
+}
+
+.navigation ul li a .icon5{
+    position: relative;
+    line-height: 75px;
+    transition: 0.5s;
+    font-size: 23px;
+    top: -6px;
 }
 
 .navigation ul li.active a .icon{
@@ -544,8 +577,8 @@ box-shadow: 0 0 60px 20px rgb(255, 0, 221);
 .hamburger {
     position: absolute;
     cursor: pointer;
-    top: 10px;
-    left: 10px;
+    top: 400px;
+    left: 100px;
 }
 
 .cross{
