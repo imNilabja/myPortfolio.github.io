@@ -264,7 +264,7 @@ body{
         transform: rotateX(60deg) rotate(45deg);
     }
     100%{
-        transform: rotateX(60deg) rotate(-405deg);
+        transform: rotateX(60deg) rotate(405deg);
     }
 }
 
@@ -381,7 +381,7 @@ box-shadow: 0 0 60px 20px red;
         transform: rotateX(60deg) rotate(45deg);
     }
     100%{
-        transform: rotateX(60deg) rotate(-405deg);
+        transform: rotateX(60deg) rotate(405deg);
     }
 }
 
@@ -464,7 +464,7 @@ box-shadow: 0 0 60px 20px blue;
         transform: rotateX(60deg) rotate(45deg);
     }
     100%{
-        transform: rotateX(60deg) rotate(-405deg);
+        transform: rotateX(60deg) rotate(405deg);
     }
 }
 
@@ -585,3 +585,4 @@ box-shadow: 0 0 60px 20px rgb(255, 0, 221);
     margin-left: 155px;
     position: absolute;
 }
+
