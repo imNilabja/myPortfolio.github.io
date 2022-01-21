@@ -125,6 +125,8 @@ transform: translateX(calc(70px * 0));
 background:#fc7a01;
 box-shadow: 0 15px 25px #f77d0c99;
 transform: translateX(calc(70px * 1));
+position: absolute;
+
 }
 .navigation ul li:nth-child(3).active ~ .indicator 
 {
@@ -552,14 +554,14 @@ box-shadow: 0 0 60px 20px rgb(255, 0, 221);
 
     .section1
     { 
-        left: 130px;
+        left: 140px;
         top: 820px;
      
     }
 
     .section0
     { 
-        left: -430px;
+        left: -410px;
         top: 100px;
      
     }
@@ -571,7 +573,14 @@ box-shadow: 0 0 60px 20px rgb(255, 0, 221);
         top: 600px;
         font-size: 10px;
     }
-    
+  
+    /*#list1 {
+        position: absolute;
+        left: 18px;
+        top: 80px;
+    }*/
+
+   
 }
 
 .hamburger {
@@ -585,4 +594,5 @@ box-shadow: 0 0 60px 20px rgb(255, 0, 221);
     margin-left: 155px;
     position: absolute;
 }
+
 
