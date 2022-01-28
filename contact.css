@@ -64,12 +64,12 @@
         background-color:white ;
     }
 
-    header ul{
+   section ul{
         display: flex;
         flex-direction: row;
        
     }
-    header ul li{
+    section ul li{
         margin-right: 25px;
     color: white;
     font-weight: 700;
@@ -78,8 +78,4 @@
     text-transform: uppercase;
     letter-spacing: 1px;
        
-    }
-
-    header ul li a{
-        
     }
