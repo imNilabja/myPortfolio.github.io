@@ -159,7 +159,7 @@ body{
     height: 300px;
     transform-style: preserve-3d;
     transform: rotateX(-30deg);
-    animation: animate 6s linear infinite;
+    animation: animate 20s linear infinite;
 }
 
 .section0{
@@ -257,7 +257,7 @@ body{
     height: 70px;
     transform: rotateX(60deg) rotate(45deg);
     transform-style: preserve-3d;
-    animation: rot 6s linear infinite;
+    animation: rot 18s linear infinite;
     
    }
 
@@ -375,7 +375,7 @@ box-shadow: 0 0 60px 20px red;
     height: 110px;
     transform: rotateX(60deg) rotate(45deg);
     transform-style: preserve-3d;
-    animation: rota 4s linear infinite;
+    animation: rota 18s linear infinite;
 }
 
 @keyframes rota {
@@ -459,7 +459,7 @@ box-shadow: 0 0 60px 20px blue;
     height: 100px;
     transform: rotateX(60deg) rotate(45deg);
     transform-style: preserve-3d;
-    animation: rotate 7s linear infinite;
+    animation: rotate 18s linear infinite;
 }
 @keyframes rotate {
     0%{
